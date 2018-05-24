@@ -1,0 +1,6 @@
+c:\users\3de echelon\documents\visual studio 2013\Projects\SFOExtract\SFOExtract\bin\Debug\SFOExtract.exe.config
+c:\users\3de echelon\documents\visual studio 2013\Projects\SFOExtract\SFOExtract\bin\Debug\SFOExtract.exe
+c:\users\3de echelon\documents\visual studio 2013\Projects\SFOExtract\SFOExtract\bin\Debug\SFOExtract.pdb
+c:\users\3de echelon\documents\visual studio 2013\Projects\SFOExtract\SFOExtract\obj\Debug\SFOExtract.csprojResolveAssemblyReference.cache
+c:\users\3de echelon\documents\visual studio 2013\Projects\SFOExtract\SFOExtract\obj\Debug\SFOExtract.exe
+c:\users\3de echelon\documents\visual studio 2013\Projects\SFOExtract\SFOExtract\obj\Debug\SFOExtract.pdb
